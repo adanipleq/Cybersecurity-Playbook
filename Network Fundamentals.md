@@ -6,5 +6,6 @@
 # Key differences between switches and routers
 Switches:
 Connects devices within the same network, using MAC addresses.
+
 Routers:
 Acts as a traffic director by assigning IP addresses and managing data flow between them.
