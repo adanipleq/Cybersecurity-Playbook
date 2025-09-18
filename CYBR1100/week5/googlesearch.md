@@ -6,5 +6,7 @@
 
 the good things- my facebook, my instagram, my linkedin
 
+the only thing that shows personal information is my linkedin, which was just where I attend school now/my high school, and my skills.
 
-the bad things- a LOT of innapropriate stuff because my last name gets flagged as the word "nipple" 
+
+the bad things- a LOT of innapropriate stuff because my last name gets flagged as the word "nipple". 
