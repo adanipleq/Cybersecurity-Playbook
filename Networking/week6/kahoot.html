@@ -1,1 +1,69 @@
-<title>Kahoot</title>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>KAHOOT</title>
+  <meta name="description" content="Kahoot review." />
+
+  <!-- Canonical + robots (optional but nice) -->
+  <link rel="canonical" href="https://your-username.github.io/your-repo/" />
+  <meta name="robots" content="index,follow" />
+
+  <!-- Styles: keep inline or link to a CSS file -->
+  <style>
+    :root { --maxw: 72ch; }
+    * { box-sizing: border-box; }
+    body { margin: 0; font: 16px/1.5 system-ui, -apple-system, Segoe UI, Roboto, sans-serif; color: #222; }
+    header, main, footer { padding: 1rem; }
+    .container { max-width: var(--maxw); margin: 0 auto; }
+    a { color: #0b5ed7; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .skip-link { position: absolute; left: -999px; top: -999px; }
+    .skip-link:focus { left: 1rem; top: 1rem; background: #fff; padding: .5rem .75rem; border: 1px solid #ccc; }
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header role="banner">
+    <div class="container">
+      <h1>My GitHub Page</h1>
+      <nav aria-label="Primary">
+        <a href="./">Home</a> ·
+        <a href="#about">About</a> ·
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" role="main">
+    <div class="container">
+      <h2 id="about">About</h2>
+      <p>Welcome! Replace this with your content. You can add images, lists, code blocks, etc.</p>
+
+      <h3>Example list</h3>
+      <ul>
+        <li>Fast, minimal HTML5</li>
+        <li>Accessible landmarks</li>
+        <li>Ready for GitHub Pages</li>
+      </ul>
+
+      <pre><code>&lt;!-- Example code block --&gt;
+console.log('Hello GitHub Pages!');
+</code></pre>
+    </div>
+  </main>
+
+  <footer role="contentinfo">
+    <div class="container">
+      <small>&copy; <span id="year"></span> Your Name. All rights reserved.</small>
+    </div>
+  </footer>
+
+  <script>
+    // Simple JS: current year in footer
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
