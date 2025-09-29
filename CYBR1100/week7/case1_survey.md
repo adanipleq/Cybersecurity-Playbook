@@ -21,6 +21,7 @@ My classmate is aware of RAID, but didn't give me a very specific definition. Th
 3.Are you aware of survaillence based advertisers?
 
    PEER RESPONSE:
+   
 “Yes. Stuff like Amazon, right?”
 
 My peer is aware of amazon using your data such as purchases to give you ads for their website. 
