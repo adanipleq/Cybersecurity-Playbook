@@ -3,3 +3,4 @@
 
 These are screenshots for the first packet tracer.
 
+<img width="586" height="173" alt="image" src="https://github.com/user-attachments/assets/8f076e9b-e338-4338-a59e-ae22b579aaba" />
