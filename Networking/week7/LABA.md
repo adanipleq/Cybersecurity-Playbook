@@ -9,3 +9,7 @@ These are screenshots for the first packet tracer.
 
 Second packet tracer screenshots.
 
+<img width="857" height="337" alt="image" src="https://github.com/user-attachments/assets/32102eac-7ddb-4dae-aad0-48cc13bb1be7" />
+<img width="922" height="303" alt="image" src="https://github.com/user-attachments/assets/8181e91c-8862-4074-b310-d864b89fd49a" />
+
+Screenshots from the third packet tracer.
