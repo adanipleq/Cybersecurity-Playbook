@@ -1,0 +1,5 @@
+Think of it like a big building with many apartments. The building has a street address. That is basically equivalent to the IP address of your computer.
+But since there can be many tenants (services) in the same building, you also need to know the apartment number.
+More technical explanation: Many services (e.g. email server, web server, file server, print server, etc.) can be running on the same computer, sharing the same network interface and therefore the same IP address.
+To keep those apart, each service is listening on a different port (e.g. `25` for email, `80` for web server, etc.). When you send a TCP/IP message, you have to specify the recipients IP address, but also the port on which the message is to be received.
+Ports are a logical concept. They physically use the same cable as all other messages. It's just an additional number encoded in the TCP/IP package. When your operating systems network stack receives such a message, it will read the port number and forward the message to whichever service (tenant) is currently holding that port.
