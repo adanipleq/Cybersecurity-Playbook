@@ -1,3 +1,5 @@
+# NOTES 
+
 Think of it like a big building with many apartments. The building has a street address. That is basically equivalent to the IP address of your computer.
 But since there can be many tenants (services) in the same building, you also need to know the apartment number.
 More technical explanation: Many services (e.g. email server, web server, file server, print server, etc.) can be running on the same computer, sharing the same network interface and therefore the same IP address.
