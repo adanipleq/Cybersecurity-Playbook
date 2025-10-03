@@ -1,4 +1,4 @@
-# 🌐 OSI & TCP/IP Models Quick Reference
+# 🌐 OSI & TCP/IP Models Quick Reference MADE WITH SAGE AI
 
 ## 🏗 OSI Model (Open Systems Interconnection — 7 Layers)
 
