@@ -7,3 +7,8 @@ Lab 2 screenshots
 
 <img width="1638" height="721" alt="image" src="https://github.com/user-attachments/assets/9e3dd755-d075-4dbc-94eb-bf142e2c938d" />
 <img width="1572" height="851" alt="image" src="https://github.com/user-attachments/assets/2d8f536c-d56f-46b1-8404-69c40b5166c6" />
+<img width="1567" height="712" alt="image" src="https://github.com/user-attachments/assets/131ab04d-585f-47a1-a756-8c473fd0b5e8" />
+Lab 3 screenshots
+
+<img width="264" height="286" alt="image" src="https://github.com/user-attachments/assets/286e52a4-fd49-43fc-b1c3-6bdb3afe9acb" />
+for lab four it wouldnt show me the motion detector.
