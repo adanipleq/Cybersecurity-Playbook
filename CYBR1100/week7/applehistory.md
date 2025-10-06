@@ -1,0 +1,1 @@
+[How Apple has changed how it protects user privacy on smartphones since 2010.docx](https://github.com/user-attachments/files/22713862/How.Apple.has.changed.how.it.protects.user.privacy.on.smartphones.since.2010.docx)
