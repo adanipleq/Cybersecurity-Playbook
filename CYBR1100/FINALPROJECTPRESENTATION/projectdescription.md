@@ -1,0 +1,1 @@
+My presentation describes phishing, how to avoid phishing, and how to spread awareness. My slides gave an example of phishing, steps to spot phishing, and how to avoid it. Phishing is a major issue today. Many people are victims to phishing scams and awareness is important.
