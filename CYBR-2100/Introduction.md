@@ -1,0 +1,1 @@
+# Hello, my name is Ada! I am a second year Cybersecurity and Networking student at Hocking College! Professionally, I am an employee for the Vinton County Engineer's office and a student at Hocking College. My interests in cybersecurity are: Malware Analysis, Vulnerability Research, and Offensive Security.
