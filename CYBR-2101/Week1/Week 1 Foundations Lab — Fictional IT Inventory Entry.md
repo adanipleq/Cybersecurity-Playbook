@@ -1,11 +1,12 @@
-# Inventory Entry
+[pythontest.py](https://github.com/user-attachments/files/33647457/pythontest.py)# Inventory Entry
 
 ## Purpose
 This program collects a fictional device label, device type, and
 assigned room. It displays the information as a readable summary.
 
 ## Program file
-pythontest.py
+pythontest.py [Uploading pythontest.py…]()
+
 
 ## How to run
 
@@ -24,15 +25,15 @@ The program accepts blank answers without warning the user.
 
 ## Test 1
 Inputs:
-- Device label: 
-- Device type: 
+- Device label: employee_desktop
+- Device type: desktop
 - Assigned room: 
 
 Expected summary:
 Inventory Entry
-Device label: 
-Device type: 
-Assigned room: 
+Device label: employee_desktop
+Device type: desktop
+Assigned room: office_downstairs
 
 Actual output:
 <img width="1060" height="725" alt="image" src="https://github.com/user-attachments/assets/1bd2c767-06ad-48f7-ae0a-15559c30bd83" />
@@ -42,15 +43,15 @@ Pass
 
 ## Test 2
 Inputs:
-- Device label: 
-- Device type: 
-- Assigned room: 
+- Device label: device1
+- Device type: desktop1
+- Assigned room: room1
 
 Expected summary:
 Inventory Entry
-Device label: 
-Device type: 
-Assigned room: 
+Device label: desktop1
+Device type: desktop1
+Assigned room: room1
 
 Actual output:
 <img width="1055" height="705" alt="image" src="https://github.com/user-attachments/assets/ad200c93-587d-4b0f-86fe-2c07ab2d90c8" />
