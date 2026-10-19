@@ -1,12 +1,11 @@
-[pythontest.py](https://github.com/user-attachments/files/33647457/pythontest.py)# Inventory Entry
+# Inventory Entry
 
 ## Purpose
 This program collects a fictional device label, device type, and
 assigned room. It displays the information as a readable summary.
 
 ## Program file
-pythontest.py [Uploading pythontest.py…]()
-
+[pythontest.py](https://github.com/user-attachments/files/33647457/pythontest.py)
 
 ## How to run
 
