@@ -1,7 +1,11 @@
 Weeks 4–5 Professional Practice Record
+
 Name: Ada Niple
+
 Vendor activity: 4.2-4.3 Data and Tools in netacad
+
 Evidence link:  https://www.netacad.com/launch?id=249e41f9-9676-4d51-818b-67ab8e09ee5f&tab=curriculum&view=12d2ab6a-4fa0-4adc-93e7-ca73d8fee3a1
+
 1. Preparation
 What did you review or prepare before the activity? Include a date or a small piece of evidence if you have one.
 Before theBefore the “Infected” activity, I predicted that the wineventlog sourcetype would help locate antivirus events. I recorded this prediction in my Activity 4.3 notes.
