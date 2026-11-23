@@ -1,9 +1,10 @@
-# ***SOC Analyst Casebook — Milestone 2 Draft***
+# ***SOC Analyst Casebook — Milestone 2***
 
 **Author:** Ada Niple  
 **Course:** Cisco CCNA / Cybersecurity coursework  
-**Status:** Working analysis draft — not the final product  
-**Date:** November 23, 2026
+**Status:** Working analysis draft - not final product  
+**Date:** November 22, 2026
+**AI USE:** I used ChatGPT Edu to organize and input my work into a markdown format that could be read and used as reference with an index.
 
 > **Scope note:** This draft uses evidence from separate course activities. The Splunk sign-in walkthrough, Wireshark protocol lab, and Cyber Hygiene report research are different scenarios. They are not evidence of one shared incident.
 
@@ -113,5 +114,3 @@ For Milestone 3, I plan to:
 - `Niple_W4_Activity42.docx` — Week 4 Splunk guided-view record.
 - `Niple_W5_Wireshark-v2.docx` — Week 5 personally performed Wireshark lab and verification notes.
 - `Niple_W6_427LAB.docx` — Week 6 Cyber Hygiene report research.
-
-> Before publishing, add only files that are appropriate for a public repository. Keep raw packet captures and any unredacted sensitive data private. Update the `evidence/` paths above to match the files actually included in the repository.
