@@ -6,7 +6,7 @@
 **Date:** November 22, 2026
 **AI USE:** I used ChatGPT Edu to organize and input my work into a markdown format that could be read and used as reference with an index.
 
-> **Scope note:** This draft uses evidence from separate course activities. The Splunk sign-in walkthrough, Wireshark protocol lab, and Cyber Hygiene report research are different scenarios. They are not evidence of one shared incident.
+**Scope notes:** This draft uses evidence from separate course activities. The Splunk sign-in walkthrough, Wireshark protocol lab, and Cyber Hygiene report research are different scenarios. They are not evidence of one shared incident. They are examples of multiple incidents.
 
 ## 1. Revised purpose, scope, and success criteria
 
