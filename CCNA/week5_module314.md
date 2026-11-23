@@ -1,9 +1,8 @@
-[cisco_lab_3_1_4_threat_intelligence_comparison.md](https://github.com/user-attachments/files/35288520/cisco_lab_3_1_4_threat_intelligence_comparison.md)
 # Cisco Lab 3.1.4: Threat Intelligence Report Comparison
 
 > **Course Context:** Week 6 Resource Guide — Five-Step Report Comparison  
 > **Sources Analyzed:** Cisco Talos 2025 Year in Review & CISA Cybersecurity Alerts and Advisories
-
+## AI CLARIFICATION: I used Claude to format this markdown template with my answers from the 3.1.4 updated lab.
 ---
 
 ## Step 1 & Step 2: Source Records and Cited Claims
